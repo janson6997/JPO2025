@@ -1,0 +1,12 @@
+# Pliki tymczasowe i build
+build/
+*.user
+*.pro.user*
+*.o
+*.obj
+*.exe
+
+# Qt cache
+.qmake.stash
+
+#release/
