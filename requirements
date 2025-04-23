@@ -1,0 +1,29 @@
+WYMAGANIA DLA URUCHOMIENIA WERSJI RELEASE:
+
+- 64-bitowy system operacyjny: Windows 10 lub Windows 11
+- Minimum 100 MB wolnej przestrzeni dyskowej
+- Połączenie z internetem (np. do pobierania danych pomiarowych)
+
+WYMAGANIA DLA SAMODZIELNEJ BUDOWY APLIKACJI:
+
+- Qt 6.8.2 lub nowszy (zalecany MSVC 64-bit)
+- Zainstalowane komponenty Qt:
+    - QtLocation
+    - QtCharts
+    - QtNetworkManagement
+    - QtPositioning
+
+REQUIREMENTS FOR RUNNING RELEASE VERSION:
+
+- 64-bit operating system: Windows 10 or Windows 11
+- At least 100 MB of free disk space
+- Internet access (e.g. for retrieving measurement data)
+
+REQUIREMENTS FOR BUILDING THE APPLICATION YOURSELF:
+
+- Qt 6.8.2 or later (recommended: MSVC 64-bit build)
+- Installed Qt components:
+    - QtLocation
+    - QtCharts
+    - QtNetworkManagement
+    - QtPositioning
