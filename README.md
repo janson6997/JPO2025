@@ -7,6 +7,7 @@ Aplikacja bazująca na frameworku Qt Creator (Qt 6.8.2), służąca do odczytu i
 ## Uruchomienie
 Zbuduj za pomocą Qt Creator (Qt 6.8.2) po pobraniu wszystkich plików.
 Gotowa wersja do pobrania i rozpakowania znajduje się w folderze `release/`.
+Dokładne wymagania sprzętowe znajdują się w pliku `reqirements.txt`.
 
 # AirAPI – application for visualization of air quality data provided by GIOS
 Qt 6.8.2-based app for managing and displaying environmental measurement stations in Poland.
@@ -14,6 +15,7 @@ Qt 6.8.2-based app for managing and displaying environmental measurement station
 ## Running
 Build using Qt Creator framework (Qt 6.8.2) after downloading all the files provided.
 Version available for download and unpacking in folder `release/`.
+Specific system requirements can be found in `reqirements.txt`.
 
 ## Licencja / License
 MIT
